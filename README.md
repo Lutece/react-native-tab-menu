@@ -1,1 +1,1 @@
-# react-native-tab-menu
+# react-native-tab-swiper
