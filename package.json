@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Lutece/react-native-tab-swiper/issues"
   },
-  "homepage": "https://github.com/Lutece/react-native-tab-swiper#readme"
+  "homepage": "https://github.com/Lutece/react-native-tab-swiper#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  }
 }
